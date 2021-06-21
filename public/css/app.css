@@ -1,0 +1,12 @@
+h1, .pager {
+    text-align: center;
+    padding: 30px;
+}
+
+tr {
+    text-align: center;
+}
+
+nav div.flex {
+    margin: 0 auto;
+}
